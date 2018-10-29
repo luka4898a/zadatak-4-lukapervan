@@ -3,3 +3,10 @@
 ################################################################################
 
 /SP-Vjezbe/Debug
+/SP-Vjezbe/.vs/SP-Vjezbe/v15/ipch
+*.suo
+*.db
+*.opendb
+*.user
+/SP-Vjezbe/Pokazivaci/Debug/Pokazivaci.tlog
+/SP-Vjezbe/Pokazivaci/Debug
