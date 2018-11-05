@@ -11,7 +11,9 @@ void main() {
 	int *b = &a;
 	printf("Adresa a: %d %d", &a, a);
 	printf("\n*b = %d", *b);
+	printf("sdad");
 	funkcija(&a);
 	printf("\n%d", a);
 	getchar();
+	//test
 }
