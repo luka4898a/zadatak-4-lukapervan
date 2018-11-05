@@ -8,5 +8,10 @@
 *.db
 *.opendb
 *.user
-/SP-Vjezbe/Pokazivaci/Debug/Pokazivaci.tlog
+*.ipch
+*.tlog
+*.db-shm
+*.db-wal
 /SP-Vjezbe/Pokazivaci/Debug
+/SP-Vjezbe/Datum/Debug
+/SP-Vjezbe/DvodimenzionalnoPolje/Debug
