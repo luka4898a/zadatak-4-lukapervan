@@ -34,7 +34,7 @@ git status
 ```
 ### Rezultti bi trebao biti kao na slici
 
-![alt text](https://github.com/fsr-sp/sp-vjezbe/tree/master/images/git_status.png)
+![alt text](https://raw.githubusercontent.com/fsr-sp/sp-vjezbe/tree/master/images/git_status.png)
 
 
 
