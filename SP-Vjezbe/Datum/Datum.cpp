@@ -4,6 +4,7 @@
 char *datum(char *jmbg) //DD.MM.GG.
 {
 	return NULL;
+	//Datum
 }
 
 int kontrola(char *jmbg)

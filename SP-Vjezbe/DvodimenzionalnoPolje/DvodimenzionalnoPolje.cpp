@@ -5,6 +5,7 @@
 
 int zbroj(int *polje, int red, int stup)
 {
+	//Zadatak
 	return 1;
 }
 
