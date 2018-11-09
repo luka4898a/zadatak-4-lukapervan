@@ -55,8 +55,6 @@ git commit -m "Ovdje napisti ime commit-a"
 git push
 ```
 
-
-
 ### SP-Vježbe ###
 
 * Pokazivači - 30.10.2018.
