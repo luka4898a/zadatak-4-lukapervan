@@ -36,7 +36,7 @@ Rezultti bi trebao biti kao na slici
 
 ![alt text](https://raw.githubusercontent.com/fsr-sp/sp-vjezbe/master/images/git_status.png)
 
-2. Spremiti sve datoteke na kojima so napravili izmjene u Index
+2. Spremiti sve datoteke na kojima ste napravili izmjene u Index
 ```
 git add SP-Vjezbe/Datum/Datum.cpp
 git add SP-Vjezbe/DvodimenzionalnoPolje/DvodimenzionalnoPolje.cpp
