@@ -1,5 +1,9 @@
 # Strukture podataka #
 
+### Preduvjeti ###
+- Git - https://git-scm.com/downloads
+- Visul studio 2017
+
 ### Upute za instalaciju ###
 
 1. Odabrati direktorij gdje ćete spasiti sve vježbe
