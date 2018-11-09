@@ -7,12 +7,17 @@
 ### Upute za instalaciju ###
 
 1. Odabrati direktorij gdje ćete spasiti sve vježbe
-2. Klonirati remote repozirotij na svoje računalo
+2. Postaviti korisničko ime i email
+```
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+```
+3. Klonirati remote repozirotij na svoje računalo
 ```
 git clone https://github.com/Strukture-podataka/sp-vjezbe-{vaše-git-korisničko-ime}.git
 cd sp-vjezbe-{vaše-git-korisničko-ime}
 ```
-3. Inicijalizirali lokalni git repostorijum
+4. Inicijalizirali lokalni git repostorijum
 ```
 git init
 ```
@@ -29,6 +34,7 @@ git status
 ```
 ### Rezultti bi trebao biti kao na slici
 
+![alt text](https://github.com/fsr-sp/sp-vjezbe/tree/master/images/git_status.png)
 
 
 
