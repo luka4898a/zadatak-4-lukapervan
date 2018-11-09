@@ -43,6 +43,7 @@ git add SP-Vjezbe/DvodimenzionalnoPolje/DvodimenzionalnoPolje.cpp
 git add SP-Vjezbe/Pokazivaci/Pokazivaci.cpp
 ```
 3. Nakon što smo dodali datoteke spremi smo za commit. Git status bi trebao izgledati ovako:
+
 ![alt text](https://raw.githubusercontent.com/fsr-sp/sp-vjezbe/master/images/git_added.png)
 
 4. Spremiti izmjene
