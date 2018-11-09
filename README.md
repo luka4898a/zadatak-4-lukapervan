@@ -23,7 +23,7 @@ git init
 ```
 4. Dodati udaljeni git repositorijum
 ```
-git remote add strukture https://github.com/fsr-sp/sp-vjezbe.git
+git remote add strukture https://github.com/Strukture-podataka/sp-vjezbe-{vaše-git-korisničko-ime}.git
 ```
 5. Otvoriti SP-Vjezbe.sln i uraditi Zadaću.
 
