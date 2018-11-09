@@ -24,9 +24,10 @@ git remote add strukture https://github.com/fsr-sp/sp-vjezbe.git
 
 ### Slanje sadaće na Vaš udaljeni repositorijum
 1. Provjeriti promjene s naredbom git status
+```
 git status
 ```
-#Rezultti bi trebao biti kao na slici
+### Rezultti bi trebao biti kao na slici
 
 
 
