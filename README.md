@@ -6,7 +6,7 @@
 
 ### Upute za instalaciju ###
 
-1. Odabrati direktorij gdje ćete spasiti sve vježbe
+1. Odabrati direktorij gdje ćete spremiti sve vježbe
 2. Postaviti korisničko ime i email
 ```
 git config --global user.name "John Doe"
