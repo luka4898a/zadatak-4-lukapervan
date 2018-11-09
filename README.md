@@ -27,7 +27,7 @@ git remote add strukture https://github.com/Strukture-podataka/sp-vjezbe-{vaše-
 ```
 5. Otvoriti SP-Vjezbe.sln i uraditi Zadaću.
 
-### Slanje sadaće na Vaš udaljeni repositorijum
+### Slanje zadaće na Vaš udaljeni repositorijum
 1. Provjeriti promjene s naredbom git status
 ```
 git status
