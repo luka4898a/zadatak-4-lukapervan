@@ -2,7 +2,7 @@
 
 ### Preduvjeti ###
 - Git - https://git-scm.com/downloads
-- Visul studio 2017
+- Visual Studio 2017
 
 ### Upute za instalaciju ###
 
