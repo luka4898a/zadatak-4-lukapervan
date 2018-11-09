@@ -60,4 +60,5 @@ git push
 ### SP-Vježbe ###
 
 * Pokazivači - 30.10.2018.
+* Dinamička alokacija memorije, datoteke - 6.10.2018.
 
