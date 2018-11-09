@@ -33,6 +33,7 @@ git remote add strukture https://github.com/Strukture-podataka/sp-vjezbe-{vaše-
 git status
 ```
 Rezultti bi trebao biti kao na slici
+
 ![alt text](https://raw.githubusercontent.com/fsr-sp/sp-vjezbe/master/images/git_status.png)
 
 2. Spremiti sve datoteke na kojima so napravili izmjene u Index
