@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{0FF6B530-9646-4EFE-B8CD-23541F997FA5}</ProjectGuid>
-    <RootNamespace>Datoteke</RootNamespace>
+    <ProjectGuid>{6BD5DBD0-B088-4B1D-9A5A-AD9FBA97C18C}</ProjectGuid>
+    <RootNamespace>DvostrukiPokazivaci</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -115,10 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Datoteke.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="studenti.txt" />
+    <ClCompile Include="DvostrukiPokazivaci.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

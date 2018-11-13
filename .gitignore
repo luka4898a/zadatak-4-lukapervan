@@ -12,7 +12,10 @@
 *.tlog
 *.db-shm
 *.db-wal
+*.dat
 /SP-Vjezbe/Pokazivaci/Debug
 /SP-Vjezbe/Datum/Debug
 /SP-Vjezbe/DvodimenzionalnoPolje/Debug
 /SP-Vjezbe/Datoteke/Debug
+/SP-Vjezbe/DvostrukiPokazivaci/Debug
+/SP-Vjezbe/Porez/Debug

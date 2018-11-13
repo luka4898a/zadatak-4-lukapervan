@@ -1,9 +1,15 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
+#include <conio.h>
 
 char *datum(char *jmbg) //DD.MM.GG.
 {
-	return NULL;
+	char *datum = (char *) malloc(sizeof(char)*10);
+	int dd, mm, gg, pp;
+	sscanf(jmbg, "%2d%2d%1d%2d", &dd, &mm, &pp, &gg);
+	sprintf(datum, "%02d.%02d.%02d.",dd, mm, gg);
+	return datum;
 }
 
 int kontrola(char *jmbg)
@@ -27,7 +33,7 @@ int kontrola(char *jmbg)
 		return 0;
 }
 
-void main()
+int main()
 {
 	//Datum
 	printf("Pretvorba datuma:\n");
@@ -37,11 +43,13 @@ void main()
 
 	if (p == 0) {
 		printf("Matièni broj je pogrešan!");
-		return;
+		return -1;
 	}
 
 	char *pom = datum(jmbg);
 	printf("%s", pom);
 
-	getchar();
+	_getch();
+
+	return 1;
 }
