@@ -1,5 +1,11 @@
 # Strukture podataka #
 
+### SP-Vježbe ###
+
+* Pokazivači - 30.10.2018.
+* Dinamička alokacija memorije, datoteke - 6.10.2018.
+* Datoteke, dvostruki pokazivači - 13.11.2018.
+
 ### Preduvjeti ###
 - Git - https://git-scm.com/downloads
 - Visual Studio 2017
@@ -57,8 +63,4 @@ git commit -m "Ovdje napisti ime commit-a"
 git push
 ```
 
-### SP-Vježbe ###
-
-* Pokazivači - 30.10.2018.
-* Dinamička alokacija memorije, datoteke - 6.10.2018.
 
