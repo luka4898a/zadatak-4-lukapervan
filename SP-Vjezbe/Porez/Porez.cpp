@@ -37,6 +37,7 @@ int prepisi(char *filenameIn, char *filenameOut) {
 	return 1;
 }
 
+//1. Zadatak
 zapis* Ucitaj(char *FileName, int *BrElem) {
 	int		i; //lokalne varijable
 	int	Br;
@@ -49,19 +50,18 @@ zapis* Ucitaj(char *FileName, int *BrElem) {
 	fread(&Br, sizeof(int), 1, f);
 	Polje = (zapis *)malloc(sizeof(zapis)*Br);
 
+	//
+
 	return Polje;
 }
 
+//2. Zadatak
 int	MaxPorez(zapis *Polje, int BrElem) {
 	int	i, MaxInd = 0;
 	float Max;
 
 	//Zadaća
 	return MaxInd;
-}
-
-int IzbaciZadnji() {
-	
 }
 
 int main() {
