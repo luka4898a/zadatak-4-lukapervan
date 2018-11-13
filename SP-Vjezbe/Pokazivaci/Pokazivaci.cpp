@@ -3,6 +3,7 @@
 void funkcija(int *p)
 {
 	*p = *p * 2;
+	*p = 10;
 }
 
 void main() {
