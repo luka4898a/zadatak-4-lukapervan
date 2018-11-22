@@ -5,6 +5,7 @@
 * Pokazivači - 30.10.2018.
 * Dinamička alokacija memorije, datoteke - 6.10.2018.
 * Datoteke, dvostruki pokazivači - 13.11.2018.
+* Rekurzija, 20.11.2018. 
 
 ### Preduvjeti ###
 - Git - https://git-scm.com/downloads
