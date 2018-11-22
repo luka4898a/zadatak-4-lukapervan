@@ -50,7 +50,12 @@ zapis* Ucitaj(char *FileName, int *BrElem) {
 	fread(&Br, sizeof(int), 1, f);
 	Polje = (zapis *)malloc(sizeof(zapis)*Br);
 
-	//
+	*BrElem = Br;
+	for (int i = 0; i < Br; i++)
+	{
+		fread(&Polje[i], sizeof(zapis), 1, f);
+	}
+	
 
 	return Polje;
 }
@@ -60,8 +65,25 @@ int	MaxPorez(zapis *Polje, int BrElem) {
 	int	i, MaxInd = 0;
 	float Max;
 
-	//Zadaća
+	if (BrElem <= 0)
+		return -1;
+
+	Max = Polje[0].PlatitiPorez;
+
+	if (BrElem > 1) {
+		for (int i = 1; i < BrElem; i++)
+		{
+			if (Polje[i].PlatitiPorez > Max) {
+				Max = Polje[i].PlatitiPorez;
+				MaxInd = i;
+			}
+		}
+	}
 	return MaxInd;
+}
+
+int IzbrisiZadnjeg(zapis *Polje, int *brElem) {
+
 }
 
 int main() {
